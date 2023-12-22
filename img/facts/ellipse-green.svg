@@ -1,0 +1,21 @@
+<svg width="148" height="148" viewBox="0 0 148 148" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="148" height="148" fill="#E5E5E5"/>
+<g id="Homepage v.2" clip-path="url(#clip0_0_1)">
+<rect width="1920" height="8460" transform="translate(-1180 -5787)" fill="white"/>
+<g id="Figures">
+<g id="figure">
+<g id="circle-progress" clip-path="url(#clip1_0_1)">
+<circle id="ellipse" cx="74" cy="74" r="71" stroke="#03CEA4" stroke-width="6"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1920" height="8460" fill="white" transform="translate(-1180 -5787)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="148" height="148" fill="white"/>
+</clipPath>
+</defs>
+</svg>

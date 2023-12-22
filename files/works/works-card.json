@@ -1,0 +1,100 @@
+{
+	"items":[
+		{
+			"id":1,
+			"image":"img/projects/cubes.jpg",
+			"title":"Cubes Building",
+			"url":"https://google.com",
+			"text":"<p>Business Centers</p>",
+			"button": "View Project"
+		},
+		{
+			"id":2,
+			"image":"img/projects/cottage.jpg",
+			"title":"Modern Cottage",
+			"url":"cottage.html",
+			"text":"<p>Private houses</p>",
+			"button": "View Project"
+		},
+		{
+			"id":3,
+			"image":"img/projects/beach-house.jpg",
+			"title":"Luxury Beach House",
+			"url":"https://google.com",
+			"text":"<p>Private houses</p>",
+			"button": "View Project"
+		},
+		{
+			"id":4,
+			"image":"img/projects/double-bedroom.jpg",
+			"title":"Modern Double Bedroom",
+			"url":"https://google.com",
+			"text":"<p>partments & flats</p>",
+			"button": "View Project"
+		},
+		{
+			"id":5,
+			"image":"img/projects/kids-bedroom.jpg",
+			"title":"Kids Bedroom With Decorations",
+			"url":"https://google.com",
+			"text":"<p>partments & flats</p>",
+			"button": "View Project"
+		},
+		{
+			"id":6,
+			"image":"img/projects/pencil.jpg",
+			"title":"The Pencil Building",
+			"url":"https://google.com",
+			"text":"<p>AStores & Malls</p>",
+			"button": "View Project"
+		},
+		{
+			"id":7,
+			"image":"img/projects/red-finger.jpg",
+			"title":"Red Finger Building",
+			"url":"https://google.com",
+			"text":"<p>Business Centers</p>",
+			"button": "View Project"
+		},
+		{
+			"id":8,
+			"image":"img/projects/scandinavian.jpg",
+			"title":"Scandinavian Style Interior",
+			"url":"https://google.com",
+			"text":"<p>Private houses</p>",
+			"button": "View Project"
+		},
+		{
+			"id":9,
+			"image":"img/projects/brown.jpg",
+			"title":"Brown and Gray Painted House",
+			"url":"https://google.com",
+			"text":"<p>Private houses</p>",
+			"button": "View Project"
+		},
+		{
+			"id":10,
+			"image":"img/projects/double-bedroom.jpg",
+			"title":"Modern Double Bedroom",
+			"url":"https://google.com",
+			"text":"<p>partments & flats</p>",
+			"button": "View Project"
+		},
+		{
+			"id":11,
+			"image":"img/projects/cubes.jpg",
+			"title":"Cubes Building",
+			"url":"https://google.com",
+			"text":"<p>Business Centers</p>",
+			"button": "View Project"
+		},
+		{
+			"id":12,
+			"image":"img/projects/cottage.jpg",
+			"title":"Modern Cottage",
+			"url":"https://google.com",
+			"text":"<p>Private houses</p>",
+			"button": "View Project"
+		}
+	]
+}
